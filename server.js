@@ -61,4 +61,4 @@ app.delete("/notes/:id",verifyToken,async(req,res)=>{
     }
 })
 
-app.listen(3001 , ()=> console.log("You are connected to the server."))
+app.listen(process.env.PORT || 3001, () => console.log("You are connected to the server."))
