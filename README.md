@@ -2,7 +2,7 @@
 
 A REST API for note management built with Node.js, Express, PostgreSQL and JWT Authentication.
 
-🌐 **Live:** notes-api-production-7e07.up.railway.app
+🌐 **Live:** https://notes-api-production-1d42.up.railway.app
 
 ## 🛠️ Technologies
 - Node.js
